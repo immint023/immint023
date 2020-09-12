@@ -1,4 +1,5 @@
-### Here is my contacts 👋
+### Hi there 👋
+#### Here is my contacts 💁
 <a href="https://www.linkedin.com/in/ngo-minh-372a26162/">
   <img align="left" alt="Minh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
