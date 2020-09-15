@@ -30,7 +30,7 @@
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js)
 ![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
 
-<div align="center" style="margin-left: 0">
+<div style="margin-left: 0">
   <img src="https://github-readme-stats.vercel.app/api?username=immint023&show_icons=true&theme=tokyonight&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immint023&hide_langs_below=1&layout=compact&theme=tokyonight">
 </div>
