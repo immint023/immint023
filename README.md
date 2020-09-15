@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Here is my contacts 💁
+#### 💁 Here is my contacts
 <a href="https://www.linkedin.com/in/ngo-minh-372a26162/">
   <img align="left" alt="Minh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,7 +12,7 @@
 
 - 👨‍💻 I’m currently a third student
 
-##### Languages I have used
+#### Languages I have used
 
 ![Java](https://img.shields.io/badge/-java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=JavaScript)
@@ -31,6 +31,6 @@
 ![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immint023&hide_langs_below=1&layout=compact&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api?username=immint023&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=immint023&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immint023&hide_langs_below=1&layout=compact&theme=dark">
 </p>
