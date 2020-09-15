@@ -31,6 +31,6 @@
 ![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immint023&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immint023&hide_langs_below=1&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=immint023&show_icons=true&theme=tokyonight&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immint023&hide_langs_below=1&layout=compact&theme=tokyonight">
 </p>
