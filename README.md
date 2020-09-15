@@ -1,15 +1,6 @@
 ### Hi there 👋
-#### 💁 Here is my contacts
-<a href="https://www.linkedin.com/in/ngo-minh-372a26162/">
-  <img align="left" alt="Minh's Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
-</a>
-<a href="https://www.facebook.com/iamminhhh/">
-  <img align="left" alt="Minh's Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" />
-</a>
 
-<br/>
-<br/>
-
+#### About me
 - 👨‍💻 I’m currently a third student
 
 #### Languages I have used
