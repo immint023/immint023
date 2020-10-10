@@ -1,27 +1,29 @@
-### Hi there 👋
+# <p align="center"> **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Minh Ngo** 🎯️🚀️</p>
+</br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+</br>
 
-#### About me
-- 👨‍💻 I’m currently a third student
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-#### Languages I have used
+-  👨‍💻 I’m currently working on web development technologies like Typescript, React, NodeJS etc.
+- 📚 I'm currently third-year student at University 😅
+- 💪🏼Future Goals: Learn more technologies - Never stop creating new ideas.
 
-![Java](https://img.shields.io/badge/-java-000000?style=flat&logo=Java)
-![JavaScript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=JavaScript)
-![Typescript](https://img.shields.io/badge/-typescript-000000?style=flat&logo=Typescript)
-![html5](https://img.shields.io/badge/-html5-000000?style=flat&logo=html5)
-![css3](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
+### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
-#### Frameworks I have used
 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
-![Mongo](https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js)
-![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
+## Spotify Playing 🎧
+<img align="right" alt="GIF" height="220px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-<div style="margin-left: 0">
-  <img src="https://github-readme-stats.vercel.app/api?username=immint023&show_icons=true&theme=tokyonight&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immint023&hide_langs_below=1&layout=compact&theme=tokyonight">
-</div>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/m8f4esm6me6rp0uuftakyf95z)
+
+## 🛠Languages & Tools
+![Java](http://img.shields.io/badge/-Java-5B4638?style=for-the-badge&logo=java&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+
+![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
